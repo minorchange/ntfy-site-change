@@ -2,4 +2,4 @@
 
 ## Usage
 
-./ntfy-site-change.sh /<DOMAIN/> [<WAIT_TIME_SEC>] [<NTFY_POSTFIX>]
+./ntfy-site-change.sh \<DOMAIN\> [<WAIT_TIME_SEC>] [<NTFY_POSTFIX>]
